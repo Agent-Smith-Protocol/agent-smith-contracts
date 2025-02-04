@@ -1,1 +1,1 @@
-## 💎 Agent Smith Smart Contract 💎
+## 💎 Agent Smith Smart Contracts 💎

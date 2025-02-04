@@ -1,0 +1,4 @@
+[
+  "function isTrustedForwarder(address) view returns (bool)",
+  "function trustedForwarder() view returns (address)"
+]
